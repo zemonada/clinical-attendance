@@ -1,0 +1,20 @@
+{
+  "name": "دفتر الإمضاء",
+  "short_name": "الإمضاء",
+  "description": "توزيع إمضاء الدفتر على النازلين في القسم",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#f3f6f5",
+  "theme_color": "#0e6b64",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
